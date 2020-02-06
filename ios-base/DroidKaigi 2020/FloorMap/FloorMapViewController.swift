@@ -11,8 +11,7 @@ final class FloorMapViewController: ContentViewController {
     @IBOutlet var imageView: UIImageView!
 
     override func viewDidLoad() {
-        super.viewDidLoad()
-
         title = L10n.floorMaps
+        super.viewDidLoad()
     }
 }

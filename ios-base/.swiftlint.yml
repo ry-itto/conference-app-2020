@@ -14,3 +14,5 @@ excluded:
 file_header:
   severity: error
   forbidden_pattern: .
+large_tuple:
+  severity: warning
